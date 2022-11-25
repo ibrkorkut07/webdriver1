@@ -48,6 +48,6 @@ public class C4_Locators1 {
         //3. Sayfada kac tane link oldugunu bulun.
         List<WebElement> linkList = driver.findElements(By.xpath("//a"));
         System.out.println(linkList.size());
-
+        driver.close();
     }
 }

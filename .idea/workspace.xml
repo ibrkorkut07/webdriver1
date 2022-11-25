@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a1b8b33-4236-428f-9ecb-200055ea82f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C4_Locators1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C8_ReviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C9_RelativeLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C3_ManageWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C3_ManageWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C4_Locators1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C4_Locators1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C5_ResultNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C5_ResultNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C6_VisibleText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C6_VisibleText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C7_CssLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C7_CssLocators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,28 +54,7 @@
       <recent name="C:\Users\ibrko\IdeaProjects\webdriver1\src\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C6_VisibleText">
-    <configuration name="C2_Navigate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_Navigate1" />
-      <module name="webdriver1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C3_ManageWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C3_ManageWindows" />
-      <module name="webdriver1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C4_Locators1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Locators1" />
-      <module name="webdriver1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C8_ReviewTest">
     <configuration name="C5_ResultNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_ResultNumberTest" />
       <module name="webdriver1" />
@@ -86,13 +69,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C7_CssLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_CssLocators" />
+      <module name="webdriver1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C8_ReviewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C8_ReviewTest" />
+      <module name="webdriver1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C9_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C9_RelativeLocators" />
+      <module name="webdriver1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C8_ReviewTest" />
+        <item itemvalue="Application.C9_RelativeLocators" />
+        <item itemvalue="Application.C7_CssLocators" />
         <item itemvalue="Application.C6_VisibleText" />
         <item itemvalue="Application.C5_ResultNumberTest" />
-        <item itemvalue="Application.C4_Locators1" />
-        <item itemvalue="Application.C3_ManageWindows" />
-        <item itemvalue="Application.C2_Navigate1" />
       </list>
     </recent_temporary>
   </component>

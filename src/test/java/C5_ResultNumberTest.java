@@ -40,6 +40,6 @@ public class C5_ResultNumberTest {
         //      *[text()='exact text']
         //      img[@class='s-image']
 
-        // driver.close();
+        driver.close();
     }
 }

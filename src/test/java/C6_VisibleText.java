@@ -32,5 +32,6 @@ public class C6_VisibleText {
         } else {
             System.out.println("Add/Remove Elements is NOT visible");
         }
+        driver.close();
     }
 }
